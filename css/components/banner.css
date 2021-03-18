@@ -1,0 +1,29 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+.banner{
+  background-size: cover;
+  display: block;
+  padding: 200px 0px;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: white;
+  font-size: 30px;
+  opacity: .7;
+}
+
+.btn-primary {
+  display: inline-block;
+  font-weight: 700;
+  border-radius: 80px;
+  text-transform: uppercase;
+  background-color: #1EDD88;
+  border-color: #3d7ea6;
+  padding: 1rem 2rem;
+  color: white;
+
+}
